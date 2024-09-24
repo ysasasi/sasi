@@ -11,7 +11,6 @@
 <body>
     <header>
         <a href="#" class="logo">Ysa</a>
-
         <nav>
             <a href="#" class="active"> Home</a>
             <a href="#" >Services</a>
@@ -28,9 +27,7 @@
         <div class="home-content">
             <h1>Hi, It's <span>Alex</span></h1>
             <h3 class="typing-text">I'm a <span></span></h3>
-            <p>Hi, I'm Ysa, a psychology graduate who makes art. I create impactful, engaging, and efficient designs, using my understanding of human behavior to connect with people. 
-
-                Welcome to my virtual canvas - I hope you enjoy exploring my work!</p>
+            <p>Hi, I'm Ysa, a psychology graduate who makes art. I create impactful, engaging, and efficient designs, using my understanding of human behavior to connect with people. Welcome to my virtual canvas - I hope you enjoy exploring my work!</p>
             <div class="social-icons">
                 <a href="#"><i class="fa-brands fa-linkedin"></i></a>
                 <a href="#"><i class="fa-brands fa-github"></i></a>
